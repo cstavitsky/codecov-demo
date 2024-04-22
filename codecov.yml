@@ -19,3 +19,5 @@ flag_management:
         - type: project
           target: auto
           threshold: 1%
+  default_rules:
+    carryforward: true
